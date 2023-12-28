@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cy-by-side
-- 👀 I’m interested in Math
+- 👀 I’m interested in C#
 - 🌱 I’m currently learning C++ algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on ...
