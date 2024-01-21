@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cy-by-side
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C++ algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on ...
+- _👋 Hi, I’m @cy-by-side_
+- _👀 I’m interested in Modern C++_
+- _🌱 I’m currently learning C++ algorithm and Modern C++_
+- _💞️ I’m looking to collaborate on my class_
+- _📫 Reach me on 9738314@gmail.com_
 
 <!---
 cy-by-side/cy-by-side is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
