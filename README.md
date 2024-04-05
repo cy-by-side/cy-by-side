@@ -2,7 +2,7 @@
 - _👀 I’m interested in Modern C++_
 - _🌱 I’m currently learning C++ algorithm and Modern C++_
 - _💞️ I’m looking to collaborate on my class_
-- _📫 Reach me on 9738314@gmail.com_
+- _📫 Reach me on 3739004@gmail.com_
 
 <!---
 cy-by-side/cy-by-side is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
