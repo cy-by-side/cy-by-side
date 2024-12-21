@@ -1,6 +1,6 @@
 - _👋 Hi, I’m @cy-by-side_
-- _👀 I’m interested in Modern C++_
-- _🌱 I’m currently learning C++ algorithm and Modern C++_
+- _👀 I’m interested in Lisp_
+- _🌱 I’m currently learning C++ algorithm and Common Lisp_
 - _📫 Reach me on 3739004@gmail.com_
 
 <!---
