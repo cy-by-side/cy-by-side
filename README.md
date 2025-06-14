@@ -1,6 +1,6 @@
 - _👋 Hi, I’m @cy-by-side_
-- _👀 I’m interested in Lisp_
-- _🌱 I’m currently learning C++ algorithm and Lisp1_
+- _👀 I’m interested in Zig_
+- _🌱 I’m currently learning Zig_
 - _📫 Reach me on 3739004@gmail.com_
 
 <!---
